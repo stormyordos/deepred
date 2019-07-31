@@ -1,0 +1,6 @@
+{"version":1,"strings":[
+{"hash":99242206,"name":"libsagui.ssglibemptyname","sourcebytes":[69,109,112,116,121,32,108,105,98,114,97,114,121,32,110,97,109,101,46],"value":"Empty library name."},
+{"hash":90032558,"name":"libsagui.ssglibnotloaded","sourcebytes":[76,105,98,114,97,114,121,32,39,37,115,39,32,110,111,116,32,108,111,97,100,101,100,46],"value":"Library '%s' not loaded."},
+{"hash":89320270,"name":"libsagui.ssglibinvalid","sourcebytes":[73,110,118,97,108,105,100,32,108,105,98,114,97,114,121,32,39,37,115,39,46],"value":"Invalid library '%s'."},
+{"hash":162562046,"name":"libsagui.ssglibversion","sourcebytes":[65,112,112,108,105,99,97,116,105,111,110,32,114,101,113,117,105,114,101,115,32,83,97,103,117,105,32,108,105,98,114,97,114,121,32,118,37,100,46,37,100,46,37,100,32,111,114,32,104,105,103,104,101,114,46],"value":"Application requires Sagui library v%d.%d.%d or higher."}
+]}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1526179712"/>
+  <Params Value=" -Tlinux -Px86_64 -MObjFPC -Scghi -Cg -O2 -l -vewnhibq -Fi/home/stormy/Desktop/Code/deepred/lib/x86_64-linux -Fu/home/stormy/Desktop/Code/support/pascal/synapse-r209 -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src/dbc -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src/parsesql -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src/plain -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src/core -Fu/home/stormy/Desktop/Code/support/pascal/zeos-7.1.4/src/component -Fu/home/stormy/Desktop/Code/support/pascal/hexbase -Fu/home/stormy/Desktop/Code/support/pascal/brookframework/Source -Fu/home/stormy/.lazarus/lib/PascalScriptFCL/lib/fcl/x86_64-linux -Fu/home/stormy/Desktop/Code/deepred/ -FU/home/stormy/Desktop/Code/deepred/lib/x86_64-linux/ LCLWidgetType:=nogui deepred.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

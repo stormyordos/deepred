@@ -1,0 +1,10 @@
+{"version":1,"strings":[
+{"hash":64581454,"name":"brookhttprouter.sbrookinactiverouter","sourcebytes":[73,110,97,99,116,105,118,101,32,114,111,117,116,101,114,46],"value":"Inactive router."},
+{"hash":36922542,"name":"brookhttprouter.sbrooknoroutesdefined","sourcebytes":[78,111,32,114,111,117,116,101,115,32,100,101,102,105,110,101,100,46],"value":"No routes defined."},
+{"hash":63897518,"name":"brookhttprouter.sbrookemptyroutepattern","sourcebytes":[37,115,58,32,112,97,116,116,101,114,110,32,99,97,110,110,111,116,32,98,101,32,101,109,112,116,121,46],"value":"%s: pattern cannot be empty."},
+{"hash":237578110,"name":"brookhttprouter.sbrookroutealreadyexists","sourcebytes":[37,115,58,32,112,97,116,116,101,114,110,32,39,37,115,39,32,97,108,114,101,97,100,121,32,101,120,105,115,116,115,32,105,110,32,39,37,115,39,46],"value":"%s: pattern '%s' already exists in '%s'."},
+{"hash":158078371,"name":"brookhttprouter.sbrookrequestmethodnotallowed","sourcebytes":[82,101,113,117,101,115,116,32,109,101,116,104,111,100,32,110,111,116,32,97,108,108,111,119,101,100,58,32,37,115],"value":"Request method not allowed: %s"},
+{"hash":245395476,"name":"brookhttprouter.sbrookrequestnomethoddefined","sourcebytes":[78,111,32,109,101,116,104,111,100,40,115,41,32,100,101,102,105,110,101,100],"value":"No method(s) defined"},
+{"hash":105713379,"name":"brookhttprouter.sbrookroutenotfound","sourcebytes":[82,111,117,116,101,32,110,111,116,32,102,111,117,110,100,58,32,37,115],"value":"Route not found: %s"},
+{"hash":29143982,"name":"brookhttprouter.sbrookdefaultroutealreadyexists","sourcebytes":[65,32,100,101,102,97,117,108,116,32,114,111,117,116,101,32,97,108,114,101,97,100,121,32,101,120,105,115,116,115,46],"value":"A default route already exists."}
+]}

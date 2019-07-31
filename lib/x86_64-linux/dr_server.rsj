@@ -1,0 +1,10 @@
+{"version":1,"strings":[
+{"hash":17787,"name":"dr_server.rs_ack","sourcebytes":[65,67,75],"value":"ACK"},
+{"hash":21083,"name":"dr_server.rs_nak","sourcebytes":[78,65,75],"value":"NAK"},
+{"hash":337028,"name":"dr_server.rs_motd","sourcebytes":[77,79,84,68],"value":"MOTD"},
+{"hash":96286233,"name":"dr_server.rs_whoami","sourcebytes":[87,72,79,65,77,73],"value":"WHOAMI"},
+{"hash":178749038,"name":"dr_server.rs_version","sourcebytes":[86,69,82,83,73,79,78],"value":"VERSION"},
+{"hash":313872,"name":"dr_server.rs_help","sourcebytes":[72,69,76,80],"value":"HELP"},
+{"hash":92826019,"name":"dr_server.rs_status","sourcebytes":[83,84,65,84,85,83],"value":"STATUS"},
+{"hash":9291273,"name":"dr_server.rs_kthxbai","sourcebytes":[75,84,72,88,66,65,73],"value":"KTHXBAI"}
+]}

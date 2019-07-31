@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":203169662,"name":"brooklibraryloader.sbrookactivelibloader","sourcebytes":[65,99,116,105,118,101,32,108,105,98,114,97,114,121,32,108,111,97,100,101,114,46],"value":"Active library loader."},
+{"hash":209509102,"name":"brooklibraryloader.sbrooklibraryalreadyloaded","sourcebytes":[76,105,98,114,97,114,121,32,97,108,114,101,97,100,121,32,108,111,97,100,101,100,32,98,121,32,111,116,104,101,114,32,108,111,97,100,101,114,46],"value":"Library already loaded by other loader."}
+]}
